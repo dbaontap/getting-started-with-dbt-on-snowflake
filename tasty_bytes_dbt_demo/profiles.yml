@@ -6,14 +6,14 @@ tasty_bytes:
       account: 'not needed'
       user: 'not needed'
       role: accountadmin
-      database: tasty_bytes_dbt_db
+      database: SF_dbt_Demo
       schema: dev
-      warehouse: tasty_bytes_dbt_wh
+      warehouse: SF_dbt_Demo_wh
     prod:
       type: snowflake
       account: 'not needed'
       user: 'not needed'
       role: accountadmin
-      database: tasty_bytes_dbt_db
+      database: SF_dbt_Demo
       schema: prod
-      warehouse: tasty_bytes_dbt_wh
+      warehouse: SF_dbt_Demo_wh
