@@ -1,0 +1,2 @@
+SHOW TABLES IN DATABASE sf_dbt_demo;
+SHOW VIEWS IN DATABASE sf_dbt_demo;
